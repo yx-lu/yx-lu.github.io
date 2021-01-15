@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Home page of Yuxuan Lu
 
-You can use the [editor on GitHub](https://github.com/yx-lu/yx-lu.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently advised by Dr. Yuqing Kong and my research interests are Information elicitation, blockchain and cryptography.
 
-### Markdown
+## Education
+* 09/2018-Present: School of Electronics Engineering and Computer Science, Peking University
+** Bachelor of Computer Science and Technology
+* 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publication
+None
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yx-lu/yx-lu.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Awards
+* 12/2020 Gold Medal in 2020 ACM-ICPC Asia Regional Contest Shanghai Site
+* 09/2020 Second-class scholarship of Peking University
+* 12/2019 Gold Medal in 2019 ACM-ICPC Asia Regional Contest Shanghai Site
+* 12/2019 Gold Medal in 2019 ACM-ICPC Asia Regional Contest Shenyang Site
+* 09/2019 Third-class scholarship of Peking University
+* 12/2018 Gold Medal in 2018 ACM-ICPC Asia Regional Contest Shenyang Site
+* 09/2018 Freshman scholarship of Peking University
+* 07/2017 Gold Medal in the 34th National Olympiad in Informatics (NOI 2017)
+* 07/2016 Gold Medal in the 33th National Olympiad in Informatics (NOI 2016)
