@@ -23,3 +23,6 @@ None
 * 09/2018 Freshman scholarship of Peking University
 * 07/2017 Gold Medal in the 34th National Olympiad in Informatics (NOI 2017)
 * 07/2016 Gold Medal in the 33th National Olympiad in Informatics (NOI 2016)
+
+# Contact
+My email address is yx_lu[at]pku.edu.cn
