@@ -1,4 +1,4 @@
-# Home page of Yuxuan Lu
+# Homepage of Yuxuan Lu
 
 ## About me
 I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
@@ -7,7 +7,7 @@ I am currently advised by Dr. Yuqing Kong and my research interests are Informat
 
 ## Education
 * 09/2018-Present: School of Electronics Engineering and Computer Science, Peking University
-** Bachelor of Computer Science and Technology
+  * Bachelor of Computer Science and Technology
 * 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
 
 ## Publication
