@@ -25,7 +25,7 @@ None
 * 07/2016 Gold Medal in the 33th National Olympiad in Informatics (NOI 2016)
 
 ## Teaching Experience
-* 03/2021 TA for Algorithm Design and Analysis
+* 2021,spring TA for course "Algorithm Design and Analysis"
 
 ## Contact
 My email address is yx_lu[at]pku.edu.cn
