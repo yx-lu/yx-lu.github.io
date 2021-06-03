@@ -11,7 +11,7 @@ I am currently advised by Dr. Yuqing Kong and my research interests are Informat
 * 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
 
 ## Publication
-None
+* Z. Huang\*, S. Xu\*, Y. Shan, Y. Lu, Y. Kong, X. Liu and G. Schoenebeck, "SURPRISE! and When to Schedule It." accepted by the 30th International Joint Conference on Artificial Intelligence (IJCAI-21)
 
 ## Awards
 * 12/2020 Gold Medal in 2020 ACM-ICPC Asia Regional Contest Shanghai Site
