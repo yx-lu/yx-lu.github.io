@@ -12,10 +12,10 @@ I am currently advised by Dr. Yuqing Kong and my research interests are Informat
 
 ## Publication
 * Z. Huang\*, S. Xu\*, Y. Shan, Y. Lu, Y. Kong, X. Liu and G. Schoenebeck, "SURPRISE! and When to Schedule It." accepted by the 30th International Joint Conference on Artificial Intelligence (IJCAI-21)
-** [paper](https://arxiv.org/abs/2106.02851)
+  * [paper](https://arxiv.org/abs/2106.02851)
 * J. Chen\*, Y. Lu\*, Y. Kong, "Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective" accepted by **poster session** of the Twenty-Second ACM Conference on Economics and Computation (EC'21 poster)
-** [poster](https://github.com/yx-lu/yx-lu.github.io/blob/main/poster.pdf)
-** [paper](https://arxiv.org/abs/2102.12247)
+  * [poster](https://github.com/yx-lu/yx-lu.github.io/blob/main/poster.pdf)
+  * [paper](https://arxiv.org/abs/2102.12247)
 
 ## Awards
 * 12/2020 Gold Medal in 2020 ACM-ICPC Asia Regional Contest Shanghai Site
