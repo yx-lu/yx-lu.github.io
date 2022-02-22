@@ -18,7 +18,7 @@ I am currently advised by Dr. Yuqing Kong and my research interests are Informat
   * [paper](https://arxiv.org/abs/2102.12247)
 
 ## Awards
-* 09/2020 John Hopcroft Scholarship of Peking University
+* 09/2021 John Hopcroft Scholarship of Peking University
 * 12/2020 Gold Medal in 2020 ACM-ICPC Asia Regional Contest Shanghai Site
 * 09/2020 Second-class Scholarship of Peking University
 * 12/2019 Gold Medal in 2019 ACM-ICPC Asia Regional Contest Shanghai Site
