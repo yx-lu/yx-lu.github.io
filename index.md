@@ -1,6 +1,3 @@
-# kjasdksjdnksjdasdankjdsankjdasljn
-
-
 # About me
 I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
 
