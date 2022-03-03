@@ -1,6 +1,6 @@
 # About me
 I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
-ffffffffffffffffff
+
 I am currently advised by Dr. Yuqing Kong and my research interests are Information elicitation, blockchain and cryptography.
 
 # Education
@@ -12,7 +12,7 @@ I am currently advised by Dr. Yuqing Kong and my research interests are Informat
 * Z. Huang\*, S. Xu\*, Y. Shan, Y. Lu, Y. Kong, X. Liu and G. Schoenebeck, "SURPRISE! and When to Schedule It." accepted by the 30th International Joint Conference on Artificial Intelligence (IJCAI-21)
   * [paper](https://arxiv.org/abs/2106.02851)
 * J. Chen\*, Y. Lu\*, Y. Kong, "Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective" accepted by **poster session** of the Twenty-Second ACM Conference on Economics and Computation (EC'21 poster)
-  * [poster](https://github.com/yx-lu/yx-lu.github.io/blob/main/poster.pdf)
+  * [poster](https://github.com/yx-lu/yx-lu.github.io/blob/main/files/EC21poster.pdf)
   * [paper](https://arxiv.org/abs/2102.12247)
 
 # Awards
