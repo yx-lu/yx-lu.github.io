@@ -1,22 +1,13 @@
-remote_theme: yx-lu/moonwalk
-logo: photo.jpg
-
-
-title: Moonwalk
-author: aaaaaaa
+title: Homepage of Yuxuan Lu
+author: Yuxuan Lu
 url: yxlu.me
 description: > # description of the site (multiple lines allowed)
-  Homepage of Yuxuan Lu
+  NOTHING
 permalink: /:slug
 
-favicon: "./photo.jpg" # relative path to site's favicon
+favicon: "photo.jpg" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
-
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+remote_theme: yx-lu/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
