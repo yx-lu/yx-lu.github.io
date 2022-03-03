@@ -1,7 +1,7 @@
 # About me
 I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
 
-I am currently advised by Dr. Yuqing Kong and my research interests are Information elicitation, blockchain and cryptography.
+I am currently advised by Prof. Yuqing Kong and my research interests are Information elicitation, blockchain and cryptography.
 
 # Education
 * 09/2018-Present: School of Electronics Engineering and Computer Science, Peking University
