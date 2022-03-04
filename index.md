@@ -9,13 +9,13 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 * 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
 
 # Publications
-### 2022
+## 2022
 
 * Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu, **Y. Lu**, K. Nayak, F. Zhang, L. Zhang, Y. Zhao. In submission.
     * [[arxiv]](https://arxiv.org/abs/2201.05574)
 * How Gold to Make the Golden Snitch. Y. Guo, Z. Huang, Y. Kong, **Y. Lu**. In submission.
 
-### 2021
+## 2021
 
 * SURPRISE! and When to Schedule It. Z. Huang\*, S. Xu\*, Y. Shan, **Y. Lu**, Y. Kong, X. Liu and G. Schoenebeck, In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
   * [[proceeding]](https://www.ijcai.org/proceedings/2021/0036.pdf)    [[arxiv]](https://arxiv.org/abs/2106.02851)    [[download]](https://github.com/yx-lu/yx-lu.github.io/blob/main/files/surprise_ijcai_21.pdf)
