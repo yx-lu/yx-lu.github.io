@@ -11,7 +11,7 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 # Publications
 ## 2022
 
-* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu, **Y. Lu**, K. Nayak, F. Zhang, L. Zhang, Y. Zhao. In submission.
+* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu\*, **Y. Lu**\*, K. Nayak\*, F. Zhang\*, L. Zhang\*, Y. Zhao\*. Accepted by *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
     * [[arxiv]](https://arxiv.org/abs/2201.05574)
 * How Gold to Make the Golden Snitch. Y. Guo, Z. Huang, Y. Kong, **Y. Lu**. In submission.
 
