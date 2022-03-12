@@ -35,6 +35,6 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 * 07/2016 Gold Medal in the 33th National Olympiad in Informatics (NOI 2016)
 
 # Teaching Experience
-* (2021 Spring) TA for course "Algorithm Design and Analysis"
+* (2021 Spring) TA of course "Algorithm Design and Analysis"
 * (2021 Fall) TA of course "Mathematical Foundations for the Information Age"
 
