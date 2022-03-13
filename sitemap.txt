@@ -1,8 +1,4 @@
 https://yxlu.me
-https://github.com/yx-lu
-https://arxiv.org/abs/2201.05574
-https://www.ijcai.org/proceedings/2021/0036.pdf
-https://arxiv.org/abs/2106.02851
-https://github.com/yx-lu/yx-lu.github.io/blob/main/files/surprise_ijcai_21.pdf
-https://github.com/yx-lu/yx-lu.github.io/blob/main/files/EC21poster.pdf
-https://arxiv.org/abs/2102.12247
+https://yxlu.me/files
+https://yxlu.me/files/surprise_ijcai_21.pdf
+https://yxlu.me/files/EC21poster.pdf
