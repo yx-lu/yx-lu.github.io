@@ -1,7 +1,7 @@
 ---
 title: 'SURPRISE! and When to Schedule It'
 collection: publications
-permalink: /publication/surprise
+permalink: /publication/surprise_ijcai21
 excerpt: 'This experimental paper demonstrates that audience utility has some properties by organizing respondents to watch LOL S10 and report information.'
 date: 2021-08-19
 venue: 'the 30th International Joint Conference on Artificial Intelligence (IJCAI)'
