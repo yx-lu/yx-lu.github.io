@@ -2,7 +2,7 @@
 title: 'Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective'
 collection: publications
 permalink: /publication/fvariety
-excerpt: 'This paper designs a family of group level evaluation metrics expressing informativeness, based on an additionally asking for predictions about others'
+excerpt: 'This paper designs a family of group level evaluation metrics expressing informativeness, based on an additionally asking for predictions about others.'
 date: 2021-3-1
 venue: 'In submission'
 paperurl: 'https://arxiv.org/abs/2102.12247'
@@ -20,9 +20,9 @@ Here we distinguish the above two scenarios by additionally asking for responden
 
 ### Materials
 
-[[Download]](yxlu.me/files/fvariety.pdf)
+[[Download]](fvariety.pdf)
 
 [[Arxiv]](https://arxiv.org/abs/2102.12247.pdf)
 
-[[EC21poster]](yxlu.me/files/fvariety_ec21poster.pdf)
+[[EC21poster]](fvariety_ec21poster.pdf)
 

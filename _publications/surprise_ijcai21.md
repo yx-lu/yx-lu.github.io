@@ -18,7 +18,7 @@ Information flow measures, over the duration of a game, the audience’s belief 
 
 ### Materials
 
-[[Download]](yxlu.me/files/surprise_ijcai21.pdf)
+[[Download]](surprise_ijcai21.pdf)
 
 [[Proceeding]](https://www.ijcai.org/proceedings/2021/0036.pdf)
 
