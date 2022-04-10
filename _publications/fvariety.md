@@ -20,9 +20,9 @@ Here we distinguish the above two scenarios by additionally asking for responden
 
 ### Materials
 
-[[Download]](fvariety.pdf)
+[[Download]](https://yxlu.me/files/fvariety.pdf)
 
 [[Arxiv]](https://arxiv.org/abs/2102.12247.pdf)
 
-[[EC21poster]](fvariety_ec21poster.pdf)
+[[EC21poster]](https://yxlu.me/files/fvariety_ec21poster.pdf)
 
