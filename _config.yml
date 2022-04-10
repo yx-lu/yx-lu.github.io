@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Yuxuan Lu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yuxuan Lu"
+description              : &description "Yuxuan Lu is a senior undergraduate in Turing Class, Peking University. His research interests lie Blockchain, cryptography and information elicitation."
 url                      : "http://yxlu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yx-lu/yx-lu.github.io"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=w8h0b0EAAAAJ"
   email            : "yx_lu@pku.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yuxuan-Lu-7"
-  uri              : "yxlu.me"
+  uri              : "https://yxlu.me"
   bitbucket        :
   codepen          :
   dribbble         :
