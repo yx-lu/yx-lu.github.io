@@ -14,7 +14,7 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 
 ## News
 
-* 04/2022 I gave a talk in the Turing Class CS peer talk about the EIP-1559 paper. Slides and videos will be ready soon.
+* 04/2022 I gave a talk in the Turing Class CS peer talk about the EIP-1559 paper. The video is uploaded [[here]](https://www.bilibili.com/video/BV19B4y1U7Qy).
 * 03/2022 Our paper `Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security` has been accepted by ACM CCS 2022!
 
 ## Education
