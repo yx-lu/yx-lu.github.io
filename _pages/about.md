@@ -14,6 +14,7 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 
 ## News
 
+* 04/2022 Joint work with Hongyin Chen, our paper has been accepted by ICDCS 2022.
 * 04/2022 I gave a talk in the Turing Class CS peer talk about the EIP-1559 paper. The video is uploaded [[here]](https://www.bilibili.com/video/BV19B4y1U7Qy).
 * 03/2022 Our paper `Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security` has been accepted by ACM CCS 2022!
 
@@ -27,6 +28,7 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 
 ### 2022
 
+* FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. H. Chen*, **Y. Lu**\*, Y. Cheng. Accepted by *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
 * Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu\*, **Y. Lu**\*, K. Nayak\*, F. Zhang\*, L. Zhang\*, Y. Zhao\*. Accepted by *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
 * How Gold to Make the Golden Snitch. Y. Guo, Z. Huang, Y. Kong, **Y. Lu**. In submission.
 
