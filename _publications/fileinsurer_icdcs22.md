@@ -14,8 +14,8 @@ Hongyin Chen\*, **Yuxuan Lu\***, Yukun Cheng
 
 ### Abstract
 
-Waiting for the proceeding is ready.
+Waiting for the proceeding is ready
 
 ### Materials
 
-Waiting for the proceeding is ready.
+Waiting for the proceeding is ready
