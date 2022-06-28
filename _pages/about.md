@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong ](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are information elicitation, blockchain and cryptography.
+I am a first-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are information elicitation, blockchain and cryptography.
 
 ## News
 
