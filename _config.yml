@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Yuxuan Lu"
+title                    : "Yuxuan Lu"
 title_separator          : "-"
 name                     : &name "Yuxuan Lu"
-description              : &description "Yuxuan Lu is a senior undergraduate in Turing Class, Peking University. His research interests lie Blockchain, cryptography and information elicitation."
+description              : &description "Yuxuan Lu is a first-year PhD student at the School of Computer Science in Peking University (2022-). His research interests lie information elicitation, blockchain and cryptography."
 url                      : "https://yxlu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yx-lu/yx-lu.github.io"

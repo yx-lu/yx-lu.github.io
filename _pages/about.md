@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate in school of Electronics Engineering and Computer Science in Peking University (2018-).
-
-I am currently advised by Prof. Yuqing Kong and my research interests are Information elicitation, blockchain and cryptography.
+I am a first-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong ](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are information elicitation, blockchain and cryptography.
 
 ## News
 
@@ -20,7 +18,9 @@ I am currently advised by Prof. Yuqing Kong and my research interests are Inform
 
 ## Education
 
-* 09/2018-Present: School of Electronics Engineering and Computer Science, Peking University
+* 09/2022-present: Center on Frontiers of Computing Studies, Peking University
+    * Doctor of Philosophy
+* 09/2018-06/2022: School of Electronics Engineering and Computer Science, Peking University
     * Bachelor of Computer Science and Technology
 * 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
 
