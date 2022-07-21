@@ -19,7 +19,7 @@ I am a first-year PhD student at the School of Computer Science in Peking Univer
 ## Education
 
 * 09/2022-present: Center on Frontiers of Computing Studies, Peking University
-    * Doctor of Philosophy
+    * Doctor of Computer Science
 * 09/2018-06/2022: School of Electronics Engineering and Computer Science, Peking University
     * Bachelor of Computer Science and Technology
 * 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
