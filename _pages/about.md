@@ -26,16 +26,20 @@ I am a first-year PhD student at the School of Computer Science in Peking Univer
 
 ## Recent publications
 
+### 2023
+
+* A Framework of Transaction Packaging in High-throughput Blockchains. **Yuxuan Lu\***, Qian Qi, Xi Chen. In submission.
+
 ### 2022
 
-* FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. H. Chen*, **Y. Lu**\*, Y. Cheng. Accepted by *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
-* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu\*, **Y. Lu**\*, K. Nayak\*, F. Zhang\*, L. Zhang\*, Y. Zhao\*. In *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
-* How Gold to Make the Golden Snitch. Y. Guo, Z. Huang, Y. Kong, **Y. Lu**. In submission.
+* FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. Hongyin Chen*, **Yuxuan Lu**\*, Yukun Cheng. Accepted by *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
+* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Yulin Liu\*, **Yuxuan Lu**\*, Kartik Nayak\*, Fan Zhang\*, Luyao Zhang\*, Yinhong Zhao\*. In *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
+* How Gold to Make the Golden Snitch. Yongkang Guo\*, Zhihuan Huang\*, Yuqing Kong\*, **Yuxuan Lu\***. In submission.
 
 ### 2021
 
-* SURPRISE! and When to Schedule It. Z. Huang\*, S. Xu\*, Y. Shan, **Y. Lu**, Y. Kong, X. Liu and G. Schoenebeck, In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
-* Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective. J. Chen\*, **Y. Lu\*** and Y. Kong, in **poster session** of the *ACM Conference on Economics and Computation (EC poster)*, 2021.
+* SURPRISE! and When to Schedule It. Zhihuan Huang\*, Shengwei Xu\*, You Shan, **Yuxuan Lu**, Yuqing Kong, Xiao Liu and Grant Schoenebeck, In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
+* Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective. Jiale Chen\*, **Yuxuan Lu\*** and Yuqing Kong, in **poster session** of the *ACM Conference on Economics and Computation (EC poster)*, 2021.
 
 ## Awards
 
