@@ -32,7 +32,7 @@ I am a first-year PhD student at the School of Computer Science in Peking Univer
 
 ### 2022
 
-* FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. Hongyin Chen*, **Yuxuan Lu**\*, Yukun Cheng. Accepted by *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
+* FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. Hongyin Chen\*, **Yuxuan Lu**\*, Yukun Cheng. Accepted by *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
 * Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Yulin Liu\*, **Yuxuan Lu**\*, Kartik Nayak\*, Fan Zhang\*, Luyao Zhang\*, Yinhong Zhao\*. In *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
 * How Gold to Make the Golden Snitch. Yongkang Guo\*, Zhihuan Huang\*, Yuqing Kong\*, **Yuxuan Lu\***. In submission.
 
