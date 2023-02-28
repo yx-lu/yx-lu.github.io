@@ -29,7 +29,7 @@ I am a first-year PhD student at the School of Computer Science in Peking Univer
 ### 2022
 
 * FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. H. Chen*, **Y. Lu**\*, Y. Cheng. Accepted by *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
-* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu\*, **Y. Lu**\*, K. Nayak\*, F. Zhang\*, L. Zhang\*, Y. Zhao\*. Accepted by *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
+* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Y. Liu\*, **Y. Lu**\*, K. Nayak\*, F. Zhang\*, L. Zhang\*, Y. Zhao\*. In *The 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
 * How Gold to Make the Golden Snitch. Y. Guo, Z. Huang, Y. Kong, **Y. Lu**. In submission.
 
 ### 2021
