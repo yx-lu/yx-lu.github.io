@@ -10,20 +10,6 @@ redirect_from:
 
 I am a first-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are information elicitation, blockchain and cryptography.
 
-## News
-
-* 04/2022 Joint work with Hongyin Chen, our paper has been accepted by ICDCS 2022.
-* 04/2022 I gave a talk in the Turing Class CS peer talk about the EIP-1559 paper. The video is uploaded [[here]](https://www.bilibili.com/video/BV19B4y1U7Qy).
-* 03/2022 Our paper `Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security` has been accepted by ACM CCS 2022!
-
-## Education
-
-* 09/2022-present: Center on Frontiers of Computing Studies, Peking University
-    * Doctor of Computer Science
-* 09/2018-06/2022: School of Electronics Engineering and Computer Science, Peking University
-    * Bachelor of Computer Science and Technology
-* 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
-
 ## Recent publications
 
 #### 2023
@@ -34,13 +20,21 @@ I am a first-year PhD student at the School of Computer Science in Peking Univer
 #### 2022
 
 * FileInsurer: A Scalable and Reliable Protocol for Decentralized File Storage in Blockchain. Hongyin Chen, **Yuxuan Lu**, Yukun Cheng. In *the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2022.
-* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Yulin Liu\*, **Yuxuan Lu**\*, Kartik Nayak\*, Fan Zhang\*, Luyao Zhang\*, Yinhong Zhao\*. In *the 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
-* How Gold to Make the Golden Snitch. Yongkang Guo\*, Zhihuan Huang\*, Yuqing Kong\*, **Yuxuan Lu\***. In submission.
+* Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security. Yulin Liu, **Yuxuan Lu**, Kartik Nayak, Fan Zhang, Luyao Zhang, Yinhong Zhao. In *the 29th ACM Conference on Computer and Communications Security (CCS)*, 2022.
+* How Gold to Make the Golden Snitch. Yongkang Guo, Zhihuan Huang, Yuqing Kong, **Yuxuan Lu**. In submission.
 
 #### 2021
 
 * SURPRISE! and When to Schedule It. Zhihuan Huang, Shengwei Xu, You Shan, **Yuxuan Lu**, Yuqing Kong, Xiao Liu and Grant Schoenebeck, In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
-* Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective. Jiale Chen\*, **Yuxuan Lu\*** and Yuqing Kong\*, in **poster session** of the *ACM Conference on Economics and Computation (EC poster)*, 2021.
+* Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective. Jiale Chen, **Yuxuan Lu** and Yuqing Kong, in **poster session** of the *ACM Conference on Economics and Computation (EC poster)*, 2021.
+
+## Education
+
+* 09/2022-present: Center on Frontiers of Computing Studies, Peking University
+  * Doctor of Computer Science
+* 09/2018-06/2022: School of Electronics Engineering and Computer Science, Peking University
+  * Bachelor of Computer Science and Technology
+* 09/2015-06/2018: Hangzhou No.2 High School of Zhejiang Province
 
 ## Awards
 
