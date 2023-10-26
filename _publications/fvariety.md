@@ -6,7 +6,6 @@ excerpt: 'This paper designs a family of group level evaluation metrics expressi
 date: 2021-3-1
 venue: 'In submission'
 paperurl: 'https://arxiv.org/abs/2102.12247'
-citation: 'Chen, J., Kong, Y., & Lu, Y. (2021). Equal Affection or Random Selection: the Quality of Subjective Feedback from a Group Perspective. arXiv preprint arXiv:2102.12247.' 
 ---
 ### Authors
 
@@ -20,7 +19,7 @@ Here we distinguish the above two scenarios by additionally asking for responden
 
 ### Materials
 
-[[Download]](https://yxlu.me/files/fvariety.pdf)
+[[Paper download]](https://yxlu.me/files/fvariety.pdf)
 
 [[Arxiv]](https://arxiv.org/abs/2102.12247.pdf)
 

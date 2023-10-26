@@ -6,7 +6,6 @@ excerpt: 'This experimental paper demonstrates that audience utility has some pr
 date: 2021-08-19
 venue: 'the 30th International Joint Conference on Artificial Intelligence (IJCAI)'
 paperurl: 'https://www.ijcai.org/proceedings/2021/0036.pdf'
-citation: 'Huang, Z., Xu, S., Shan, Y., Lu, Y., Kong, Y., Liu, T. X., & Schoenebeck, G. (2021). SURPRISE! and When to Schedule It. arXiv preprint arXiv:2106.02851.' 
 ---
 ### Authors
 
@@ -18,9 +17,9 @@ Information flow measures, over the duration of a game, the audience’s belief 
 
 ### Materials
 
-[[Download]](https://yxlu.me/files/surprise_ijcai21.pdf)
+[[Proceedings]](https://www.ijcai.org/proceedings/2021/0036.pdf)
 
-[[Proceeding]](https://www.ijcai.org/proceedings/2021/0036.pdf)
+[[Paper download]](https://yxlu.me/files/surprise_ijcai21.pdf)
 
 [[Arxiv]](https://arxiv.org/abs/2106.02851)
 

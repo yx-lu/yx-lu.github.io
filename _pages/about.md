@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are information elicitation, blockchain and cryptography.
+I am a second-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are Information elicitation, Blockchain and other subareas in Computational Economics.
+
+## News
+
+Our paper **Calibrating “Cheap Signals” in Peer Review without a Prior** has been accepted by NeurIPS 2023!
 
 ## Recent publications
 
 #### 2023
 
 * A Framework of Transaction Packaging in High-throughput Blockchains. **Yuxuan Lu**, Qian Qi, Xi Chen. In submission.
-* Calibrating “Cheap Signals” in Peer Review without a Prior. **Yuxuan Lu**, Yuqing Kong. In submission.
+* Calibrating “Cheap Signals” in Peer Review without a Prior. **Yuxuan Lu**, Yuqing Kong. Accepted by *the 37th Conference on Neural Information Processing Systems (NeurIPS), 2023*.
 
 #### 2022
 
