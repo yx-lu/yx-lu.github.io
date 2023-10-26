@@ -19,7 +19,7 @@ Our paper **Calibrating “Cheap Signals” in Peer Review without a Prior** has
 #### 2023
 
 * A Framework of Transaction Packaging in High-throughput Blockchains. **Yuxuan Lu**, Qian Qi, Xi Chen. In submission.
-* Calibrating “Cheap Signals” in Peer Review without a Prior. **Yuxuan Lu**, Yuqing Kong. Accepted by *the 37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
+* [Calibrating “Cheap Signals” in Peer Review without a Prior](https://yxlu.me/publication/peer_review_neurips23). **Yuxuan Lu**, Yuqing Kong. Accepted by *the 37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
 
 #### 2022
 
