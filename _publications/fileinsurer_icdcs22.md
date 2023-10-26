@@ -6,6 +6,7 @@ excerpt: 'This paper proposes a secure and scalable design of decentralized stor
 date: 2022-07-10
 venue: 'the 42nd IEEE International Conference on Distributed Computing Systems (ICDCS)'
 paperurl: 'https://ieeexplore.ieee.org/document/9912259'
+citation: 'coming soon'
 ---
 ### Authors
 
