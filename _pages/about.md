@@ -12,7 +12,7 @@ I am a second-year PhD student at the School of Computer Science in Peking Unive
 
 ## News
 
-Our paper **Calibrating “Cheap Signals” in Peer Review without a Prior** has been accepted by NeurIPS 2023!
+Our paper [**Calibrating “Cheap Signals” in Peer Review without a Prior**](https://yxlu.me/publication/peer_review_neurips23) has been accepted by NeurIPS 2023!
 
 ## Recent publications
 
