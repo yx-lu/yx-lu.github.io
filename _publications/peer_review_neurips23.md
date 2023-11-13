@@ -22,5 +22,7 @@ In detail, we show that the error probability of the calibrated score approaches
 
 [[Paper download]](https://yxlu.me/files/peer_review_neurips23.pdf)
 
+[[Video]](https://recorder-v3.slideslive.com/#/share?share=88097&s=dd97a666-e42c-459c-8f9b-19cba799da15)
+
 [[Slide]](https://yxlu.me/files/peer_review_neurips23_slide.pdf)
 
