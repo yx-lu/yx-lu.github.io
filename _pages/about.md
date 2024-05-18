@@ -12,14 +12,18 @@ I am a second-year PhD student at the School of Computer Science in Peking Unive
 
 ## News
 
-Our paper [**Calibrating “Cheap Signals” in Peer Review without a Prior**](https://yxlu.me/publication/peer_review_neurips23) has been accepted by NeurIPS 2023!
+Our paper [**Eliciting Informative Text Evaluations with Large Language Models**](https://yxlu.me/publication/elicit_text_evaluation_ec24) has been accepted by EC 2024!
 
 ## Recent publications
+
+#### 2024
+
+* [Eliciting Informative Text Evaluations with Large Language Models](https://yxlu.me/publication/elicit_text_evaluation_ec24). **Yuxuan Lu**, Shengwei Xu, Yichi Zhang, Yuqing Kong and Grant Schoenebeck. Accepted by ACM Conference on Economics and Computation (EC), 2024.
 
 #### 2023
 
 * [A Framework of Transaction Packaging in High-throughput Blockchains](https://yxlu.me/publication/packaging). **Yuxuan Lu**, Qian Qi, Xi Chen. In submission.
-* [Calibrating “Cheap Signals” in Peer Review without a Prior](https://yxlu.me/publication/peer_review_neurips23). **Yuxuan Lu**, Yuqing Kong. Accepted by *the 37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
+* [Calibrating “Cheap Signals” in Peer Review without a Prior](https://yxlu.me/publication/peer_review_neurips23). **Yuxuan Lu**, Yuqing Kong. In *the 37th Conference on Neural Information Processing Systems (NeurIPS)*, 2023.
 
 #### 2022
 
