@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxuan Lu"
 title_separator          : "-"
 name                     : &name "Yuxuan Lu"
-description              : &description "Yuxuan Lu is a first-year PhD student at the School of Computer Science in Peking University (2022-). His research interests lie information elicitation, blockchain and cryptography."
+description              : &description "Yuxuan Lu is a third-year PhD student at the School of Computer Science in Peking University (2022-). His research interests lie information elicitation, blockchain and cryptography."
 url                      : "https://yxlu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yx-lu/yx-lu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxuan Lu"
   avatar           : "profile.png"
-  bio              : "Yuxuan Lu is a second-year PhD student at the School of Computer Science in Peking University. His research interests lie Information Elicitation, Blockchain and other subareas in Computational Economics."
+  bio              : "Yuxuan Lu is a third-year PhD student at the School of Computer Science in Peking University. His research interests lie Information Elicitation, Blockchain and other subareas in Computational Economics."
   location         : "Beijing, China"
   employer         :
   pubmed           :

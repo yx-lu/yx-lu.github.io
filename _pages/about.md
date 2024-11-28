@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are Information elicitation, Blockchain and other subareas in Computational Economics.
+I am a third-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are Information Elicitation, Blockchain and other subareas in Computational Economics.
 
 ## News
 
-Our paper [**Eliciting Informative Text Evaluations with Large Language Models**](https://yxlu.me/publication/elicit_text_evaluation_ec24) has been accepted by EC 2024!
+[Shengwei](https://www.si.umich.edu/people/shengwei-xu) and I will present a tutorial named "**Information Elicitation Meets Large Language Models: Progress, Opportunities, and Challenge**" at WINE 2024!
 
 ## Recent publications
 
