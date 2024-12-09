@@ -3,7 +3,7 @@ title: "Information Elicitation Meets Large Language Models"
 collection: projects
 type: "Project"
 permalink: /projects/wine24
-venue: ""
+venue: "WINE2024"
 date: 2024-12-02
 location: "Edinburgh"
 ---
