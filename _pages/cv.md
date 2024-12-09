@@ -15,6 +15,9 @@ redirect_from:
 * **Gender**: Male
 * **Birth Date**: 07/27/2000
 * **Birth Place**: Hangzhou, China
+* **Email**: yx_lu@pku.edu.cn
+
+Feel free to ask my full CV via Email!
 
 Education
 ======
@@ -41,20 +44,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-# Awards
-
-* 09/2021 John Hopcroft Scholarship of Peking University
-* 12/2020 Gold Medal in 2020 ACM-ICPC Asia Regional Contest Shanghai Site
-* 09/2020 Second-class Scholarship of Peking University
-* 12/2019 Gold Medal in 2019 ACM-ICPC Asia Regional Contest Shanghai Site
-* 12/2019 Gold Medal in 2019 ACM-ICPC Asia Regional Contest Shenyang Site
-* 09/2019 Third-class Scholarship of Peking University
-* 12/2018 Gold Medal in 2018 ACM-ICPC Asia Regional Contest Shenyang Site
-* 09/2018 Freshman scholarship of Peking University
-* 07/2017 Gold Medal in the 34th National Olympiad in Informatics (NOI 2017)
-* 07/2016 Gold Medal in the 33th National Olympiad in Informatics (NOI 2016)
-
-Contact
-======
-
-My E-mail address is `yx_lu@pku.edu.cn`.
