@@ -5,9 +5,7 @@ permalink: /publication/elicit_text_evaluation_ec24
 excerpt: 'This paper propose a method to elicit informative text evaluations leveraging the power of LLMs.'
 date: 2024-07-07
 venue: '2024 ACM Conference on Economics and Computation (EC)'
-paperurl: 'coming soon'
-citation: 'coming soon'
-
+paperurl: 'https://arxiv.org/abs/2405.15077'
 ---
 
 ### Authors

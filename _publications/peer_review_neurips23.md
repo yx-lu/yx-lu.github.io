@@ -5,8 +5,7 @@ permalink: /publication/peer_review_neurips23
 excerpt: 'This paper propose a novel method to calibrate systematic bias in peer review.'
 date: 2023-12-10
 venue: 'the 37th Conference on Neural Information Processing Systems (NeurIPS)'
-paperurl: 'coming soon'
-citation: 'coming soon'
+paperurl: 'https://papers.neurips.cc/paper_files/paper/2023/file/41badd36e935f8a80175e95d8bc6192e-Paper-Conference.pdf'
 ---
 ### Authors
 

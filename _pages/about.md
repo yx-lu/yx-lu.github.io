@@ -12,7 +12,7 @@ I am a third-year PhD student at the School of Computer Science in Peking Univer
 
 ## News
 
-[Shengwei](https://www.si.umich.edu/people/shengwei-xu) and I will present a tutorial named "**Information Elicitation Meets Large Language Models: Progress, Opportunities, and Challenge**" at WINE 2024!
+[Shengwei](https://www.si.umich.edu/people/shengwei-xu) and I presented a tutorial named "Information Elicitation Meets Large Language Models: Progress, Opportunities, and Challenge" at WINE 2024! **You can find the materials [here](https://yxlu.me/projects/llm_elicitation_wine24)**.
 
 ## Recent publications
 

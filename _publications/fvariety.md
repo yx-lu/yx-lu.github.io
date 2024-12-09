@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/fvariety
 excerpt: 'This paper designs a family of group level evaluation metrics expressing informativeness, based on an additionally asking for predictions about others.'
 date: 2021-3-1
-venue: 'In submission'
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2102.12247'
-citation: 'coming soon'
 ---
 ### Authors
 

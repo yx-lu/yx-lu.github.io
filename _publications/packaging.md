@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/packaging
 excerpt: 'This paper propose a framework of transaction packaging problem in High-throughput Blockchains.'
 date: 2023-02-28
-venue: 'In submission'
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2301.10944'
-citation: 'coming soon'
 ---
 ### Authors
 
