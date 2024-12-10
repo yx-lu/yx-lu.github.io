@@ -12,7 +12,7 @@ location: "Edinburgh"
 
 Toolkit: https://drive.google.com/drive/folders/1j4lgQ-K8ZNhwQoE6yeBbX5QwMGk7SEw8?usp=sharing
 
-Slide: 
+Slide: [https://yxlu.me/publication/tutorial_wine24.pdf](https://yxlu.me/publication/tutorial_wine24.pdf)
 
 Still under construction, expected to be completed in mid-December.
 
