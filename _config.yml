@@ -11,7 +11,7 @@ title                    : "Yuxuan Lu"
 title_separator          : "-"
 name                     : &name "Yuxuan Lu"
 description              : &description "Yuxuan Lu is a third-year PhD student at the School of Computer Science in Peking University (2022-). His research interests lie information elicitation, blockchain and cryptography."
-url                      : "https://yxlu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://luy.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yx-lu/yx-lu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=w8h0b0EAAAAJ"
   email            : "yx_lu@pku.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yuxuan-Lu-7"
-  uri              : "https://yxlu.me"
+  uri              : "https://luy.me"
   bitbucket        :
   codepen          :
   dribbble         :
