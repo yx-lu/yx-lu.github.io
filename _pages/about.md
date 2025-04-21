@@ -50,6 +50,8 @@ I am a third-year PhD student at the School of Computer Science in Peking Univer
 
 ## Awards
 
+* 09/2024 BYD Scholarship of Peking University
+* 09/2024 Merit Student of Peking University
 * 09/2021 John Hopcroft Scholarship of Peking University
 * 12/2020 Gold Medal in 2020 ACM-ICPC Asia Regional Contest Shanghai Site
 * 09/2020 Second-class Scholarship of Peking University
