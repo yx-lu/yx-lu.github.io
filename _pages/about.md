@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are Information Elicitation, Blockchain and other subareas in Computational Economics.
+I am a third-year PhD student at the School of Computer Science in Peking University (2022-). I am advised by [Prof. Yuqing Kong](https://cfcs.pku.edu.cn/yuqkong/) and my research interests are Information Elicitation, Blockchain and other subareas in Computational Economics. I am currently visiting Northwestern University in 2025 as a pre-doctoral research fellow, under the supervision of Prof. Jason Hartline.
 
 ## News
 
@@ -16,9 +16,13 @@ I am a third-year PhD student at the School of Computer Science in Peking Univer
 
 ## Recent publications
 
+#### 2025
+
+* Benchmarking LLMs' Judgments with No Gold Standard. Shengwei Xu, **Yuxuan Lu**, Grant Schoenebeck, Yuqing Kong. In *the 13th International Conference on Learning Representations (ICLR)*, 2025.
+
 #### 2024
 
-* [Eliciting Informative Text Evaluations with Large Language Models](https://yxlu.me/publication/elicit_text_evaluation_ec24). **Yuxuan Lu**, Shengwei Xu, Yichi Zhang, Yuqing Kong and Grant Schoenebeck. Accepted by ACM Conference on Economics and Computation (EC), 2024.
+* [Eliciting Informative Text Evaluations with Large Language Models](https://yxlu.me/publication/elicit_text_evaluation_ec24). **Yuxuan Lu**, Shengwei Xu, Yichi Zhang, Yuqing Kong, Grant Schoenebeck. In *the ACM Conference on Economics and Computation (EC)*, 2024.
 
 #### 2023
 
