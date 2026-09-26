@@ -1,10 +1,10 @@
 ---
-title: "Making and Evaluating Calibrated Forecasts"
+title: "Truthful Calibration Errors for Multi-Class Prediction"
 collection: publications
 permalink: /publication/making_and_evaluating_calibrated_forecasts
 excerpt: "Designs truthful calibration metrics for evaluating model forecasts."
-date: 2025-10-01
-venue: "ArXiv"
+date: 2026-09-26
+venue: "Conference on Neural Information Processing Systems (NeurIPS)"
 paperurl: "https://arxiv.org/abs/2510.06388"
 ---
 

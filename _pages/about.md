@@ -208,14 +208,14 @@ redirect_from:
 <h2>About Me</h2>
 
 <div class="intro-panel">
-  <p>I am a fourth-year Ph.D. student at Peking University, advised by <a href="https://cfcs.pku.edu.cn/yuqkong/">Prof. Yuqing Kong</a>. My research focuses on applying game-theoretic principles to AI, especially large language models, with tools from information elicitation, mechanism design, and calibration theory.</p>
+  <p>I am a fifth-year Ph.D. student at Peking University, advised by <a href="https://cfcs.pku.edu.cn/yuqkong/">Prof. Yuqing Kong</a>. My research focuses on applying game-theoretic principles to AI, especially large language models, with tools from information elicitation, mechanism design, and calibration theory.</p>
   <p>I aim to bridge rigorous theory and practical deployment by developing mechanisms that are both provably sound and effective in real-world AI systems.</p>
 </div>
 
 <h2>News</h2>
 
 <div class="news-panel">
-  <p>I served as a workshop organizer at WINE 2024, where <a href="https://www.si.umich.edu/people/shengwei-xu">Shengwei Xu</a> and I presented the tutorial "Information Elicitation Meets Large Language Models: Progress, Opportunities, and Challenge." Materials are available <a href="https://luy.me/projects/llm_elicitation_wine24">here</a>.</p>
+  <p>Our paper <a href="https://luy.me/publication/making_and_evaluating_calibrated_forecasts">Truthful Calibration Errors for Multi-Class Prediction</a> has been accepted to <strong>NeurIPS 2026</strong>!</p>
 </div>
 
 <h2>Education</h2>
@@ -256,7 +256,7 @@ redirect_from:
       <div class="pub-materials pub-meta"><strong>Materials:</strong> <a href="https://arxiv.org/abs/2602.00619">ArXiv</a></div>
     </li>
     <li class="pub-item">
-      <a class="pub-title" href="https://luy.me/publication/making_and_evaluating_calibrated_forecasts">Making and Evaluating Calibrated Forecasts</a> <span class="pub-venue"><em>arXiv:2510.06388</em></span>
+      <a class="pub-title" href="https://luy.me/publication/making_and_evaluating_calibrated_forecasts">Truthful Calibration Errors for Multi-Class Prediction</a> <span class="pub-venue"><em>NeurIPS 2026</em></span>
       <div class="pub-authors pub-meta"><strong>Authors:</strong> <strong>Yuxuan Lu</strong>, Yifan Wu, Jason Hartline, Lunjia Hu.</div>
       <div class="pub-tldr pub-meta"><strong>TL;DR:</strong> Designs truthful calibration metrics for evaluating AI model forecasts in a principled way.</div>
       <div class="pub-materials pub-meta"><strong>Materials:</strong> <a href="https://arxiv.org/abs/2510.06388">ArXiv</a></div>
@@ -330,6 +330,7 @@ redirect_from:
   <section class="info-card">
     <h3>Experience</h3>
     <ul>
+      <li><strong>Intern, ByteDance Seed</strong> (May 2026 - Present)<br>Posttrain</li>
       <li><strong>Visiting Predoctoral Fellow, Northwestern University</strong> (Feb 2025 - Jun 2025)<br>Hosted by Prof. Jason Hartline</li>
       <li><strong>Research Intern, Duke University</strong> (Jun 2021 - Dec 2021)<br>Hosted by Prof. Fan Zhang</li>
     </ul>
